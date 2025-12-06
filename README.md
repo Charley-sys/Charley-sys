@@ -1,7 +1,9 @@
-# 👋 Hi There, I Am Charles Otieno
-### Full-Stack (MERN) Developer & Biomedical Engineer
+
 
 <div align="center">
+  <!-- Animated Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=fadeIn&text=Charles%20Otieno&fontSize=40&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Biomedical%20Engineer&descAlignY=65" alt="Header Banner" />
+  <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer;🏥+Biomedical+Engineer;⚡+HealthTech+Innovator;🌐+MERN+Stack+Specialist)
   
@@ -13,6 +15,7 @@
   ![HealthTech](https://img.shields.io/badge/HealthTech-Passionate-2ECC71?style=flat)
   
 </div>
+  
 
 ---
 
@@ -142,14 +145,14 @@ I'm a passionate **Full-Stack Developer** and **Biomedical Engineer** based in *
 
 ---
 
-## 💭 **Developer Philosophy**
+## 💭 **My Philosophy**
 
-```javascript
 const myPhilosophy = {
   code: "Clean, maintainable, and scalable",
   testing: "Comprehensive and automated",
   documentation: "Clear and thorough",
   collaboration: "Open communication and teamwork",
   learning: "Continuous improvement mindset",
-  impact: "Create solutions that make a difference"
+  impact: "Create solutions that make a difference",
+  specialization: "HealthTech + Full-Stack Development"
 };
