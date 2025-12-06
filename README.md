@@ -217,7 +217,7 @@ I'm a passionate **Full-Stack Developer** and **Biomedical Engineer** based in *
 ## 💡 My Philosophy
 
 ```
-## 💡 Innovation + 💻 Technology + 🏥 Healthcare = 🌍 Positive Impact
+ 💡 Innovation + 💻 Technology + 🏥 Healthcare = 🌍 Positive Impact
 ```
 
 I believe in leveraging technology to solve real-world healthcare challenges. My unique background in both biomedical engineering and software development enables me to bridge the gap between medical requirements and technical implementation.
