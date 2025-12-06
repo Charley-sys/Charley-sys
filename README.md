@@ -145,14 +145,17 @@ I'm a passionate **Full-Stack Developer** and **Biomedical Engineer** based in *
 
 ---
 
-## 💭 **My Philosophy**
+## 📚 Learning Journey
 
-const myPhilosophy = {
-  code: "Clean, maintainable, and scalable",
-  testing: "Comprehensive and automated",
-  documentation: "Clear and thorough",
-  collaboration: "Open communication and teamwork",
-  learning: "Continuous improvement mindset",
-  impact: "Create solutions that make a difference",
-  specialization: "HealthTech + Full-Stack Development"
-};
+- ✅ **Completed:** MERN Stack Development, Biomedical Engineering
+- 📖 **Currently Studying:** Cloud Architecture, Advanced DevOps
+- 🎯 **Future Goals:** Machine Learning in Healthcare, IoT Medical Devices
+- 📈 **Certifications:** Web Development, Data Analysis, HealthTech Integration
+
+---
+
+**💡 Innovation + 💻 Technology + 🏥 Healthcare = Impact**
+
+© 2025 Charles Otieno | MERN Stack Developer & Biomedical Engineer
+
+![Visitor Count](https://profile-counter.glitch.me/Charley-sys/count.svg)
