@@ -26,8 +26,8 @@
 I'm a passionate **Full-Stack Developer** and **Biomedical Engineer** based in **Nairobi, Kenya**, specializing in the MERN stack with a focus on HealthTech applications.
 
 ### 📍 **Quick Facts**
-- 🎓 **Education:** Biomedical Engineering
-- 💼 **Current Role:** MERN Stack Developer
+- 🎓 **Education:** Biomedical Engineering & Software Engineering 
+- 💼 **Current Role:** MERN Stack Developer/Technical Sales/Biomedical Support
 - 🌍 **Location:** Nairobi, Kenya (UTC+3)
 - 🔭 **Working on:** NextGen HealthTech solutions
 - 🌱 **Learning:** Advanced DevOps, Cloud Architecture
