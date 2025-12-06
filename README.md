@@ -141,13 +141,6 @@ I'm a passionate **Full-Stack Developer** and **Biomedical Engineer** based in *
 <!-- GitHub Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charley-sys&theme=tokyonight&hide_border=true&background=0D1117&stroke=00ADB5&ring=00D4FF&fire=FF6B6B&currStreakLabel=00ADB5&sideLabels=00ADB5" alt="GitHub Streak Stats" width="100%"/>
 
-<br/><br/>
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Charley-sys&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charley-sys&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="48%"/>
-
-<br/><br/>
 
 <!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charley-sys&theme=tokyo-night&hide_border=true&area=true&point=00D4FF&line=00ADB5&color=FFFFFF" alt="Contribution Graph" width="100%"/>
@@ -224,7 +217,7 @@ I'm a passionate **Full-Stack Developer** and **Biomedical Engineer** based in *
 ## 💡 My Philosophy
 
 ```
-💡 Innovation + 💻 Technology + 🏥 Healthcare = 🌍 Positive Impact
+## 💡 Innovation + 💻 Technology + 🏥 Healthcare = 🌍 Positive Impact
 ```
 
 I believe in leveraging technology to solve real-world healthcare challenges. My unique background in both biomedical engineering and software development enables me to bridge the gap between medical requirements and technical implementation.
