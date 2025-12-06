@@ -131,9 +131,6 @@ I'm a passionate **Full-Stack Developer** and **Biomedical Engineer** based in *
 5. 🔄 Updated [SoilIQ](https://github.com/Charley-sys/SoilIQ)
 <!--END_SECTION:activity-->
 
-*To enable automatic recent activity updates, see the setup instructions below.*
-
----
 
 ## 🏆 **GitHub Trophies**
 
