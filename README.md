@@ -88,7 +88,7 @@ I'm a passionate **Full-Stack Developer** and **Biomedical Engineer** based in *
 
 ### **💼 Other Projects**
 - **[NextGen E-Commerce](https://github.com/Charley-sys/NextGen-E-Commerce-Website)** - Modern e-commerce platform
-- **[Portfolio Website](https://github.com/Charley-sys/Charles-Otieno-Portfolio)** - Professional portfolio
+- **[Portfolio Website](https://charlieportfoliowebb.netlify.app/)** - Professional portfolio
 - **[NextGen Technologies](https://github.com/Charley-sys/NextGen-Technologies-Website)** - Business website
 
 ---
@@ -115,7 +115,7 @@ I'm a passionate **Full-Stack Developer** and **Biomedical Engineer** based in *
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charlesotienoomondi@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlesotieno123/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Charley-sys)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://charles-otieno-portfolio.vercel.app/)
+  [![Portfolio](https://charlieportfoliowebb.netlify.app/)
   
 </div>
 
