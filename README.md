@@ -151,8 +151,7 @@ I'm a passionate **Full-Stack Developer** and **Biomedical Engineer** based in *
 
 ---
 
-**💡 Innovation + 💻 Technology + 🏥 Healthcare = Impact**
+##**💡 Innovation + 💻 Technology + 🏥 Healthcare = Impact**
 
 © 2025 Charles Otieno | MERN Stack Developer & Biomedical Engineer
 
-![Visitor Count](https://profile-counter.glitch.me/Charley-sys/count.svg)
