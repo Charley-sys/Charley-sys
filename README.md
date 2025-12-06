@@ -34,7 +34,7 @@ I'm a passionate **Full-Stack Developer** and **Biomedical Engineer** based in *
 - 📫 **Contact:** charlesotienoomondi@gmail.com
 - 💬 **Ask me about:** React, Node.js, MongoDB, HealthTech integrations
 
----
+## Have A Glimpse Of My Portfolio Website[https://charlieportfoliowebb.netlify.app/]
 
 ## 🛠️ **Tech Stack**
 
@@ -97,8 +97,7 @@ I'm a passionate **Full-Stack Developer** and **Biomedical Engineer** based in *
 
 <div align="center">
   
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Charley-sys&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=8B949E&hide_title=false" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charley-sys&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=8B949E" alt="Top Languages" />
+
   
   <br/>
   
@@ -115,7 +114,7 @@ I'm a passionate **Full-Stack Developer** and **Biomedical Engineer** based in *
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charlesotienoomondi@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlesotieno123/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Charley-sys)
-  [![Portfolio](https://charlieportfoliowebb.netlify.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://charlieportfoliowebb.netlify.app/)
   
 </div>
 
