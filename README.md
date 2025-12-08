@@ -6,7 +6,7 @@
 <!-- Animated Typing Text -->
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=500&color=00ADB5&center=true&vCenter=true&width=650&multiline=true&lines=🚀+Full-Stack+Developer+%7C+React+%26+Node.js;🏥+Biomedical+Engineer+%7C+HealthTech+Specialist;⚡+Building+Scalable+Healthcare+Solutions;🌐+MERN+Stack+%7C+Next.js+%7C+TypeScript)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=500&color=00ADB5&center=true&vCenter=true&width=650&multiline=true&lines=🚀+Full-Stack+Developer;🏥+Biomedical+Engineer+%7C+HealthTech+Specialist;⚡+Building+Scalable+Healthcare+Solutions;🌐+MERN+Stack+%7C+Next.js+%7C+TypeScript)
   
   <br/>
 
@@ -214,13 +214,6 @@ I'm a passionate **Full-Stack Developer** and **Biomedical Engineer** specializi
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Charley-sys&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&title=Stars,Commits,Repositories,PullRequest" alt="GitHub Trophies" width="100%"/>
-
-</div>
 
 <br>
 
