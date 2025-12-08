@@ -1,238 +1,307 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&animation=fadeIn&text=Charles%20Otieno&fontSize=50&fontAlignY=50&desc=Full-Stack%20Developer%20%7C%20Biomedical%20Engineer%20%7C%20HealthTech%20Innovator&descSize=20&descAlignY=75" alt="Header Banner" />
+<!-- Modern Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00adb5,100:393e46&height=220&section=header&animation=fadeIn&text=Charles%20Otieno&fontSize=60&fontAlignY=50&fontColor=eeeeee&desc=Full-Stack%20Developer%20•%20Biomedical%20Engineer%20•%20HealthTech%20Innovator&descSize=22&descAlignY=75" alt="Header Banner" />
 
-<!-- Typing Animation -->
+<!-- Animated Typing Text -->
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer;🏥+Biomedical+Engineer;⚡+HealthTech+Innovator;🌐+MERN+Stack+Specialist)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=500&color=00ADB5&center=true&vCenter=true&width=650&multiline=true&lines=🚀+Full-Stack+Developer+%7C+React+%26+Node.js;🏥+Biomedical+Engineer+%7C+HealthTech+Specialist;⚡+Building+Scalable+Healthcare+Solutions;🌐+MERN+Stack+%7C+Next.js+%7C+TypeScript)
   
   <br/>
 
-<!-- Dynamic Badges -->
-<div>
-  <img src="https://komarev.com/ghpvc/?username=Charley-sys&label=Profile%20Views&color=00ADB5&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Expertise-HealthTech-2ECC71?style=for-the-badge&logo=stethoscope&logoColor=white" alt="HealthTech" />
-  <img src="https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-FF6B6B?style=for-the-badge&logo=mapbox&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Open%20To-Collaborations-00D4FF?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaborations" />
+<!-- Dynamic Status Badges -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Charley-sys&label=Profile%20Views&color=00adb5&style=for-the-badge&logo=github" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-2ecc71?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hireable" />
+  <img src="https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-ff6b6b?style=for-the-badge&logo=map-marker&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-HealthTech-9b59b6?style=for-the-badge&logo=heart-pulse&logoColor=white" alt="Focus" />
+</div>
+
+<!-- Social Links -->
+<div align="center" style="margin-top: 15px;">
+  <a href="mailto:charlesotienoomondi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/charlesotieno123/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://charlieportfoliowebb.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00adb5?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 </div>
+
+<br>
 
 ---
 
-## 👋 About Me
+## 🎯 About Me
 
-<img align="right" width="300" src="https://github.com/Charley-sys/Charley-sys/blob/main/assets/profile.gif?raw=true" alt="Coding GIF" />
+<div align="left">
+  
+<img align="right" width="350" src="https://raw.githubusercontent.com/Charley-sys/Charley-sys/main/assets/profile.gif" alt="Coding Animation" />
 
-> **"Bridging technology and healthcare to create innovative solutions that improve lives."**
+**"Transforming healthcare through innovative technology solutions"**
 
-I'm a passionate **Full-Stack Developer** and **Biomedical Engineer** based in **Nairobi, Kenya**, specializing in the **MERN stack** with a laser focus on **HealthTech applications**. With a unique blend of medical knowledge and software expertise, I build scalable solutions that address real healthcare challenges.
+I'm a passionate **Full-Stack Developer** and **Biomedical Engineer** specializing in building scalable HealthTech applications. With expertise in the **MERN stack** and modern web technologies, I create solutions that bridge the gap between medical needs and technological innovation.
 
-### 📋 Quick Facts
-- 🎓 **Education:** Biomedical Engineering & Software Engineering
-- 💼 **Current Focus:** MERN Stack Development & HealthTech Solutions
-- 🌍 **Timezone:** UTC+3 (Nairobi, Kenya)
-- 🔭 **Currently Building:** NextGen HealthTech Platforms
-- 📚 **Learning:** Advanced DevOps, Cloud Architecture, ML in Healthcare
-- 📧 **Email:** [charlesotienoomondi@gmail.com](mailto:charlesotienoomondi@gmail.com)
-- 🌐 **Portfolio:** [charlieportfoliowebb.netlify.app](https://charlieportfoliowebb.netlify.app/)
+### 🎓 Background
+- **Dual Expertise:** Biomedical Engineering + Software Development
+- **Focus:** HealthTech, Telemedicine, Medical IoT Systems
+- **Timezone:** UTC+3 (Nairobi, Kenya)
+- **Education:** Biomedical Engineering & Advanced Software Engineering
+
+### 🔭 Current Focus
+- Building AI-powered healthcare platforms
+- Developing real-time medical communication systems
+- Exploring IoT integration in healthcare
+- Learning cloud-native architectures
+
+### 📬 Quick Contact
+**Email:** charlesotienoomondi@gmail.com  
+**Portfolio:** https://charlieportfoliowebb.netlify.app/  
+**Location:** Nairobi, Kenya  
+**Availability:** Open to collaborations & opportunities
+
+</div>
+
+<br>
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### **Frontend Technologies**
+<div align="center">
+
+### **Frontend Development**
 <div>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,materialui,redux" />
 </div>
 
-### **Backend Technologies**
+### **Backend & APIs**
 <div>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/RESTful_API-00D4FF?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,graphql" />
 </div>
 
 ### **Databases & DevOps**
 <div>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,docker,aws,git,githubactions" />
 </div>
 
 ### **Biomedical Tools**
 <div>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Signal_Processing-FF6B6B?style=for-the-badge&logo=audacity&logoColor=white" alt="Signal Processing" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlab,figma" />
 </div>
+
+</div>
+
+<br>
 
 ---
 
-## 📊 Skills & Proficiency
+## 📊 GitHub Analytics
 
-<table align="center" width="100%">
+<div align="center">
+
+<!-- Stats Cards -->
+<table align="center">
   <tr>
-    <td width="50%">
-      <h3>⚡ Expertise Level</h3>
-      <ul>
-        <li><strong>React.js</strong> - 85% <code>██████████░░</code></li>
-        <li><strong>Node.js</strong> - 80% <code>██████████░░</code></li>
-        <li><strong>MongoDB</strong> - 82% <code>██████████░░</code></li>
-        <li><strong>Full-Stack</strong> - 80% <code>██████████░░</code></li>
-        <li><strong>HealthTech</strong> - 78% <code>█████████░░░</code></li>
-      </ul>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Charley-sys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00D4FF&text_color=EEEEEE" />
     </td>
-    <td width="50%">
-      <h3>📈 Learning Progress</h3>
-      <ul>
-        <li><strong>Cloud Architecture</strong> - 70% <code>█████████░░░</code></li>
-        <li><strong>Advanced DevOps</strong> - 65% <code>████████░░░░</code></li>
-        <li><strong>Machine Learning</strong> - 60% <code>███████░░░░░</code></li>
-        <li><strong>Kubernetes</strong> - 55% <code>██████░░░░░░</code></li>
-        <li><strong>Python</strong> - 75% <code>█████████░░░</code></li>
-      </ul>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charley-sys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&text_color=EEEEEE" />
     </td>
   </tr>
 </table>
 
----
-
-## 🚀 Featured Projects
-
-### **🏥 HealthTech Innovations**
-
-<div align="center">
-
-| 🌱 Project | 📝 Description | 🛠️ Tech Stack | ⭐ Status |
-|:---:|:---|:---|:---:|
-| **SoilIQ** | AI-powered soil health analysis & recommendations | React, Node.js, Python, TensorFlow | ✅ Active |
-| **Hospital Comm System** | Real-time hospital staff communication platform | MERN Stack, Socket.io | ✅ Completed |
-| **Mama Health** | Maternal healthcare & pregnancy tracking app | MERN Stack, MongoDB | ✅ Completed |
-| **Equipment Manager** | Medical equipment tracking & maintenance system | React, Node.js, PostgreSQL | ✅ Completed |
-
-### **💼 Web Development Projects**
-
-| 🛒 Project | 📝 Description | 🛠️ Tech Stack | ⭐ Status |
-|:---:|:---|:---|:---:|
-| **NextGen E-Commerce** | Modern e-commerce platform with payment integration | MERN Stack, Stripe | ✅ Completed |
-| **Portfolio Website** | Professional portfolio showcasing projects | React, Tailwind CSS | ✅ Active |
-| **NextGen Technologies** | Corporate business website | Next.js, React | ✅ Completed |
-
-</div>
-
----
-
-## 📈 GitHub Analytics & Contributions
-
-<div align="center">
-
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Charley-sys&theme=tokyonight&hide_border=true&background=0D1117&stroke=00ADB5&ring=00D4FF&fire=FF6B6B&currStreakLabel=00ADB5&sideLabels=00ADB5" alt="GitHub Streak Stats" width="100%"/>
-
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Charley-sys&theme=tokyonight&hide_border=true&background=0D1117&stroke=00ADB5&ring=00D4FF&fire=FF6B6B&currStreakLabel=00ADB5&sideLabels=00ADB5" width="100%"/>
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Charley-sys&theme=tokyo-night&hide_border=true&area=true&point=00D4FF&line=00ADB5&color=FFFFFF" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Charley-sys&theme=github-compact&hide_border=true&area=true&height=300&point=00ADB5&line=00D4FF&color=FFFFFF&bg_color=0D1117" width="100%"/>
 
 </div>
 
+<br>
+
 ---
 
-## 🏆 Achievements & Trophies
+## 🏆 Featured Projects
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Charley-sys&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%"/>
+### **🏥 HealthTech Solutions**
+
+| Project | Description | Tech Stack | Status |
+|:---|:---|:---:|:---:|
+| **SoilIQ** | AI-powered soil health analysis platform | React, Node.js, Python, TensorFlow | 🔥 Active |
+| **Hospital Comm System** | Real-time hospital communication platform | MERN, Socket.io, Redis | ✅ Live |
+| **Mama Health** | Maternal healthcare tracking application | React Native, Node.js, MongoDB | ✅ Completed |
+| **MediTrack** | Medical equipment management system | Next.js, PostgreSQL, AWS | 🚀 Active |
+
+### **💼 Web Development**
+
+| Project | Description | Tech Stack | Status |
+|:---|:---|:---:|:---:|
+| **NextGen E-Commerce** | Modern e-commerce with payment integration | MERN, Stripe, Redux | ✅ Completed |
+| **Portfolio v2** | Modern portfolio website | Next.js 14, Tailwind, Framer | ✅ Live |
+| **TaskFlow Pro** | Productivity management platform | React, Firebase, Material UI | 🔄 Updating |
 
 </div>
 
----
-
-## 📚 Learning Journey & Goals
-
-### ✅ Accomplished Milestones
-- ✨ Mastered MERN Stack Development
-- 🎓 Completed Biomedical Engineering degree
-- 🏥 Developed multiple HealthTech solutions
-- 🌐 Built and deployed production-level applications
-
-### 📖 Currently Learning
-- 🚀 Advanced Cloud Architecture (AWS, GCP)
-- 🐳 Kubernetes & Container Orchestration
-- 🤖 Machine Learning in Healthcare
-- 📊 Data Engineering & Analytics
-
-### 🎯 Future Goals
-- 🏥 Launch AI-powered healthcare platform
-- 📱 Create IoT medical devices
-- 🌍 Scale HealthTech solutions globally
-- 🎓 Obtain AWS & Kubernetes certifications
-
-### 📜 Certifications
-- ✅ Web Development Certification
-- ✅ Data Analysis & Visualization
-- ✅ HealthTech Integration Specialist
+<br>
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 📈 Skills Matrix
 
 <div align="center">
 
-<a href="mailto:charlesotienoomondi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+### **Frontend Development**
+- React.js: ⭐⭐⭐⭐⭐
+- TypeScript: ⭐⭐⭐⭐☆
+- Next.js: ⭐⭐⭐⭐☆
+- Tailwind CSS: ⭐⭐⭐⭐⭐
 
-<a href="https://www.linkedin.com/in/charlesotieno123/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+### **Backend & Databases**
+- Node.js/Express: ⭐⭐⭐⭐⭐
+- MongoDB: ⭐⭐⭐⭐☆
+- PostgreSQL: ⭐⭐⭐☆☆
+- Python/Django: ⭐⭐⭐⭐☆
 
-<a href="https://github.com/Charley-sys">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="https://charlieportfoliowebb.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-</a>
-
-<a href="https://twitter.com/yourhandle" style="display:none;">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
+### **DevOps & Tools**
+- Git/GitHub: ⭐⭐⭐⭐⭐
+- Docker: ⭐⭐⭐☆☆
+- AWS: ⭐⭐⭐☆☆
+- CI/CD: ⭐⭐⭐⭐☆
 
 </div>
 
+<br>
+
 ---
 
-## 💡 My Philosophy
+## 📚 Learning & Growth
 
-```
- 💡 Innovation + 💻 Technology + 🏥 Healthcare = 🌍 Positive Impact
-```
+<div align="center">
 
-I believe in leveraging technology to solve real-world healthcare challenges. My unique background in both biomedical engineering and software development enables me to bridge the gap between medical requirements and technical implementation.
+### **Currently Mastering**
+<div>
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS%20Cloud-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microservices-00D4FF?style=flat-square&logo=docker&logoColor=white" />
+</div>
+
+### **Certifications**
+- ✅ AWS Certified Developer (In Progress)
+- ✅ React Advanced Patterns
+- ✅ HealthTech System Architecture
+- ✅ Full-Stack Development
+
+### **Future Goals**
+- 🎯 Launch scalable HealthTech startup
+- 🌐 Contribute to open-source medical projects
+- 📚 Publish technical articles on HealthTech
+- 🚀 Mentor aspiring developers in Africa
+
+</div>
+
+<br>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Charley-sys&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&title=Stars,Commits,Repositories,PullRequest" alt="GitHub Trophies" width="100%"/>
+
+</div>
+
+<br>
+
+---
+
+## 🤝 Collaboration & Contact
+
+<div align="center">
+
+### **I'm interested in:**
+- 🤝 HealthTech collaborations
+- 💡 Open-source contributions
+- 🎯 Mentorship opportunities
+- 🚀 Startup partnerships
+
+### **Let's Connect**
+<table>
+  <tr>
+    <td align="center">
+      <a href="mailto:charlesotienoomondi@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+        <br/>Email
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/charlesotieno123/">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+        <br/>LinkedIn
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Charley-sys">
+        <img src="https://skillicons.dev/icons?i=github" width="40" />
+        <br/>GitHub
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://charlieportfoliowebb.netlify.app/">
+        <img src="https://skillicons.dev/icons?i=netlify" width="40" />
+        <br/>Portfolio
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+## 🎨 Development Philosophy
+
+**My Approach:**
+- **Code:** Clean, modular, and maintainable
+- **Design:** User-centered with accessibility first  
+- **Testing:** Comprehensive and automated
+- **Deployment:** CI/CD with monitoring
+- **Collaboration:** Transparent and communicative
+
+> 🚀 Building the future of healthcare technology...
+
+<br>
 
 ---
 
 <div align="center">
 
-### 🌟 If you find my work interesting, feel free to star my repositories and connect with me!
+<!-- Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:393e46,100:00adb5&height=100&section=footer&animation=fadeIn" alt="Footer Wave" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" alt="Footer Wave" width="100%"/>
+### **💡 Innovation Through Technology**
 
-**© 2025 Charles Otieno | MERN Stack Developer & Biomedical Engineer**
+**"Every line of code has the potential to improve healthcare outcomes"**
+
+⭐ **If you find my work interesting, consider starring my repositories!**
+
+📧 **Feel free to reach out for collaborations or opportunities**
 
 ---
-
+  
+**© 2025 Charles Otieno | Full-Stack Developer & Biomedical Engineer**
 
 </div>
