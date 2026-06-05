@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/charlesotieno123/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://charlieportfoliowebb.netlify.app/">
+  <a href="https:/charlesportfoliowebsite.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00adb5?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
 </div>
