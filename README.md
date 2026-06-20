@@ -61,7 +61,7 @@ I'm a passionate **Full-Stack Developer** and **Biomedical Engineer** specializi
 
 ### 📬 Quick Contact
 **Email:** charlesotienoomondi@gmail.com  
-**Portfolio:** https://charlieportfoliowebb.netlify.app/  
+**Portfolio:** https://charlesportfoliowebsite.netlify.app/  
 **Location:** Nairobi, Kenya  
 **Availability:** Open to collaborations & opportunities
 
