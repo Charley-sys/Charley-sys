@@ -251,7 +251,7 @@ I'm a passionate **Full-Stack Developer** and **Biomedical Engineer** specializi
       </a>
     </td>
     <td align="center">
-      <a href="https://charlieportfoliowebb.netlify.app/">
+      <a href="https://charlesportfoliowebsite.netlify.app/">
         <img src="https://skillicons.dev/icons?i=netlify" width="40" />
         <br/>Portfolio
       </a>
